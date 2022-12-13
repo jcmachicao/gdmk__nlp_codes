@@ -1,1 +1,3 @@
-# gdmk__nlp_codes
+# Códigos de NLP y Transoformers
+
+GestioDinámica(c)2022
